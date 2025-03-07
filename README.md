@@ -22,7 +22,7 @@ Independent services communicating asynchronously to store an object containing 
 
 ### Made By
 
-**Diwakar Singh**
+**Rahul Kumar**
 
 ### Future Scope
 
